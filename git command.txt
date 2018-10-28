@@ -1,0 +1,8 @@
+###init a repo
+git init
+
+###log
+git log
+
+###difference
+git diff
