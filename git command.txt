@@ -1,8 +1,18 @@
 ###init a repo
 git init
 
+###commit
+git commit -m "message"
+
 ###log
 git log
 
 ###difference
 git diff
+
+###branches
+git branch
+
+###create branch
+git checkout -b <new branch name>
+git checkout <new branch name>
